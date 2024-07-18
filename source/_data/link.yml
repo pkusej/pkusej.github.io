@@ -1,0 +1,12 @@
+- class_name: 友情链接
+  flink_style: flexcard
+  class_desc: ～(￣▽￣～)~
+  link_list:
+    - name: 鸟白岛演绎厅
+      link: https://www.summerpockets.com
+      avatar: https://res.summerpockets.com/favicon.ico
+      descr: 音乐爱好者的社区
+    - name: 夏轩阁
+      link: https://xiayuge.top/
+      avatar: https://acg.xiayuge.top/wp-content/uploads/2023/08/1225bfff65c28ac30ac93effa88f5d750a4b29dd55eda-3RD8Be_fw658.webp
+      descr: acg资源站

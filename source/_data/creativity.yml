@@ -1,0 +1,50 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://qpic.y.qq.com/music_cover/dvibiafMUQMVwxHMibdQ5wFX38bUO4G9OTM48P9XaOu5WV87L3OAJaGbQ/600?n=1
+    - name: Docker
+      color: "#fff"
+      icon: https://y.gtimg.cn/music/photo_new/T002R300x300M0000017mkwN3ryB0f_1.jpg?max_age=2592000&err_retry=1
+    - name: Photoshop
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000004StPJJ03g0cR_1.jpg?max_age=2592000
+    - name: Node
+      color: "#fff"
+      icon: https://qpic.y.qq.com/music_cover/DiaZRHMbK5EvUFIpFNBtia3nBBAYhykTlM3CuI7p90ZxrRicYSHjnvh0w/600?n=1
+    - name: Webpack
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000003HDG4T4DVtrs_1.jpg?max_age=2592000
+    - name: Pinia
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000003ci2Tr1s45n1_2.jpg?max_age=2592000
+    - name: Python
+      color: "#fff"
+      icon: https://qpic.y.qq.com/music_cover/1at3bHQ2ht3R7RgF6E6xApI2FZsQ5XpX252ycwdvLPPTouOecqG6jkOofCAeUm8H/600?n=1
+    - name: Vite
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T062R300x300M000003W3QvP3jcP58.jpg?max_age=2592000
+    - name: Flutter
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000002Uflih088lIb_2.jpg?max_age=2592000
+    - name: Vue
+      color: "#fff"
+      icon: https://qpic.y.qq.com/music_cover/mM9Ioib0WcEicPnNJLjjxowRSpViamsoy6YibIbWTWeWSgqVxgHqY7X70g/600?n=1
+    - name: React
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000003MQARj1nwc4y_1.jpg?max_age=2592000
+    - name: CSS3
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000001xpW5F3tiEmQ_1.jpg?max_age=2592000
+    - name: JS
+      color: "#fff"
+      icon: https://qpic.y.qq.com/music_cover/PzNNP8uexo0LictoiaDh1goNJlPrgCpGBzPTGY2gfXJTevy9FjhfWQbg/600?n=1
+    - name: HTML
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000001dTYvn1DS5wX_1.jpg?max_age=2592000
+    - name: Git
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000004KP7mk0ULTig_1.jpg?max_age=2592000
+    - name: Apifox
+      color: "#fff"
+      icon: https://y.qq.com/music/photo_new/T002R300x300M000003ox7ji2AAnfg_1.jpg?max_age=2592000

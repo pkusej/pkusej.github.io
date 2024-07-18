@@ -1,0 +1,205 @@
+/*播放器贴边*/
+a {
+color: #1A73E8 !important;
+font-size: 22px !important;
+}
+#thead{
+pointer-events: none;
+}
+a[onclick=toExit();] {
+width: 100% !important;
+height: 300px !important;
+}
+#dtad {
+position: static !important;
+width: 100% !important; 
+height: 1px !important;
+}
+
+.aplayer .aplayer-lrc p {
+  font-size:12px;
+  font-weight:700;
+  line-height:16px!important
+}
+.aplayer .aplayer-lrc p.aplayer-lrc-current {
+  font-size:15px;
+  color:#49b1f5
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left:-66px!important
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left:0!important
+}
+/* 页脚footer */
+/* 渐变色滚动动画 */
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0 50%;
+    }
+}
+#footer {
+    background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 10s ease infinite;
+    -moz-animation: Gradient 10s ease infinite;
+    animation: Gradient 10s ease infinite;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#footer:before {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+/* 博主昵称颜色 */
+.author-info__name {
+        color: #ff7242;
+}
+
+/* 打字效果渐变 */
+
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+#subtitle {
+    background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 10s ease infinite;
+    -moz-animation: Gradient 10s ease infinite;
+    animation: Gradient 10s ease infinite;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none
+    user-select: none;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#subtitle:before {
+    background-color: rgba(0, 0, 0, 0);
+}
+.recent-posts { margin-top: -0.8rem }
+.avatar-img {
+high: 0px; width: 0px;
+}
+.author-info__name {
+margin-top: -90px;
+ }
+.recent-post-item {
+margin-right: 18px;
+margin-left: 18px;
+
+}
+
+/*去掉外边框*/
+details summary{
+    outline:none;
+    cursor:pointer;
+}
+/*去掉前面默认的小黑三角*/
+details summary::-webkit-details-marker{
+    display:none !important; 
+}
+#down {
+display: block;
+width: 190px;
+height: 50px;
+margin-left: -100px;
+margin-top: 0.6rem;
+color: #ffffff !important;
+transform:translate(50%,-50%);
+text-align:center;
+ line-height:50px;
+    background: linear-gradient(-45deg ,#DCA1C9 ,#FAB256 , #33CF8D,#DCA1C9 );
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 10s ease infinite;
+    -moz-animation: Gradient 10s ease infinite;
+    animation: Gradient 10s ease infinite;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border-radius: 25px;
+}
+
+#down:before {
+    background-color: rgba(0, 0, 0, 0);
+}

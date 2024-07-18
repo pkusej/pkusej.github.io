@@ -1,0 +1,53 @@
+---
+title: 【手机端解压教程】lz4＆解压工具ZArchiver使用教程
+categories: 教程
+swiper_index: 4
+date: 2021-1-8 00:01:00
+description: ----------------------------------------------------
+index_img: https://img.acgus.top/i/weiyun/b43c11e63a35c669306edb286145738bf7d490222b45cfc2f41cfff0447495728a73309690c15bc57ea1e055c38f4f51.webp
+---
+## 第1步：
+打开软件，ZArchiver。找到压缩包所在的目录，如果不会，请看下面的补充说明。
+解压工具ZArchiver下载地址：https://wwmg.lanzouy.com/i2MR8sndqpa
+解压工具RAR下载地址：https://wwmg.lanzouy.com/iSAydsndsuh
+![](https://shp.qpic.cn/collector/2010522975/5de16861-261d-46d5-8107-e33701b2af9e/0)
+## 补充说明：
+『/storage/emulated/0/』表示的就是手机的根路径，也就是我们打开文件管理器或者解压软件第一眼看到的目录
+我们主要看后面的路径，假如一个游戏的目录是『千恋万花』
+那它完整的路径就是
+/storage/emulated/0/千恋万花/
+
+常用软件文件保存的路径：
+以下目录均省略/storage/emulated/0/
+总之从你打开软件第一眼就是这个/storage/emulated/0/
+只要看后面的目录就行了
+
+浏览器默认的下载目录都是：
+Download/Browser/
+百度网盘：
+BaiduNetdisk/
+夸克网盘：
+Quark/Download/CloudDrive/
+QQ：
+Android/data/com.tencent.mobileqq/Tencent/
+![](https://shp.qpic.cn/collector/2010522975/eb7ccea4-febd-4ddf-b46e-bf0ebc2737b4/0)
+## 第2步：
+点击压缩包名称进行解压，看下图进行操作。
+![](https://shp.qpic.cn/collector/2010522975/d1b4084f-44e7-46ae-9396-09007995d4b5/0)
+## 第3步：
+按下面这个按钮即可进行解压
+![](https://shp.qpic.cn/collector/2010522975/1584a812-aebf-4a3c-aa75-24c814b26c32/0)
+## 第4步：
+lz4压缩包成功解密，再按照之前的解压步骤，再把解密出来的压缩包解压出来即可。
+![](https://shp.qpic.cn/collector/2010522975/4b0d9dac-c32e-420b-813e-e2fb1978ae49/0)
+## 第5步：
+输入密码，成功得到最终文件。请按图片进行操作。
+成功得到压缩包内的文件。
+多解压几次，就了解文件目录的含义了。
+模拟器玩游戏，也是在目录中寻找游戏文件的过程。
+如果把这个目录理解了，各种模拟器都大同小异了。
+本次教程到此结束！！
+![](https://shp.qpic.cn/collector/2010522975/3b82cb49-17b6-4f72-97bb-fb37a394df93/0)
+
+## 如果你还不会的话，我只能说
+![](https://shp.qpic.cn/collector/2010522975/a42a16d5-7225-4c03-afce-6b82f6700321/0)

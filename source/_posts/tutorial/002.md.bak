@@ -1,0 +1,38 @@
+---
+title: 【PC端解压教程】PC端傻瓜式解压教程
+categories: 教程
+swiper_index: 5
+date: 2021-1-8 00:01:00
+description: ----------------------------------------------------
+index_img: https://img.acgus.top/i/weiyun/b43c11e63a35c669306edb286145738bf7d490222b45cfc2f41cfff0447495728a73309690c15bc57ea1e055c38f4f51.webp
+---
+## 准备工作：
+<b>PC解压软件下载：</b><a href="https://wwo.lanzouj.com/ifVI11ypw3ef" style="color: #87CEEB;"><b>点击跳转</b></a>
+<font color=#FF0000 size=3>**必须下载这个解压软件，用其他解压软件极大可能有可能解压失败,请注意！！！**</font>
+![](https://img.acgus.top/i/2024/05/6519ef16c92a911edcbb03e6d780cf51.webp)
+![](https://img.acgus.top/i/2024/05/282d22d2ab84a8104aa053baa7ac0bf8.webp)
+## 第一步，勾选显示文件扩展名：
+打开电脑的文件管理器，按照下图操作。
+点击查看→把文件扩展名选项给勾选上
+![](https://img.acgus.top/i/2024/05/1a2b00cd13b523025b21e5f007d2e024.webp)
+![](https://img.acgus.top/i/2024/05/f7c6bdf572f8c4632b75fed286044a0f.webp)
+![](https://img.acgus.top/i/2024/05/71469c400358456c1d6e82e2dcadac06.webp)
+## 第二步，解压软件的安装：
+找到网站分享的解压软件『<font color=#FF00FF size=3>**7z22.01-zstd-x64.exe**</font>』，其他的软件不行，一定是网站下载的解压软件
+按照下面的图片流程进行操作
+双击程序→点击<font color=#FF0000 size=3>**install**</font>，进行安装→安装完成，点<font color=#FF00FF size=3>**Close**</font>关闭窗口
+![](https://img.acgus.top/i/2024/05/c320d3eb276fddb749aff499e749da7c.webp)
+![](https://img.acgus.top/i/2024/05/04320d0c14510eccc0c7c285094fabd2.webp)
+![](https://img.acgus.top/i/2024/05/2f81bf5ea43c5fad197d11f2ab51baa1.webp)
+![](https://img.acgus.top/i/2024/05/1bdec407414a8e0eef40791aac5e4a63.webp)
+## 第三步，解压压缩包：
+1、找到所需要解压的压缩包
+2、鼠标右键点击7-zip ZS
+3、然后再点击打开压缩包
+4、点击上方菜单中的『提取』
+5、如果是普通的压缩包文件（<font color=#FF00FF size=3>**.7z、.rar、.zip等**</font>），已经应该提取出文件了，除非是双层压缩的压缩包，再重复一遍步骤即可
+.lz4经过上一步操作之后，会生成一个普通压缩包（<font color=#FF0000 size=3>**.7z、.rar、.zip等**</font>）
+现在选中这个普通压缩包，重复上一步的操作，即可提取出文件！
+![](https://img.acgus.top/i/2024/05/5a7d54befd1c0bdc22582d9a955ab474.webp)
+## 如果你还不会的话：
+![](https://img.acgus.top/i/2023/05/c7eaa1f57d233650.webp)

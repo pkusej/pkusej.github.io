@@ -1,0 +1,35 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="<%= config.keywords || 'Hexo Theme Keep' %>">
+    <meta name="description" content="<%= config.description || 'Hexo Theme Keep' %>">
+    <meta name="author" content="<%= theme.base_info.author || config.author || 'Keep Team' %>">
+    <%
+    let title = page.title;
+    if (is_archive()) {
+        title = __('archive');
+        if (is_month()) {
+            title += ': ' + page.year + '/' + page.month;
+        } else if (is_year()) {
+            title += ': ' + page.year;
+        }
+    } else if (is_category()) {
+        title = __('category') + ': ' + page.category;
+    } else if (is_tag()) {
+        title = __('tag') + ': ' + page.tag;
+    } else {
+        title = __(page.title);
+    }
+    %>
+    <title>
+        <% if (title) { %>
+            <%= title %> |
+        <% } %>
+        <%= theme.base_info.title || config.title || 'Keep Theme' %>
+    </title>
+    <%- css('css/style') %>
+    <%- favicon_tag(theme.style.favicon) %>
+    <%- __css('css/font-awesome.min.css') %>
+    <%- export_config() %>
+</head>
+

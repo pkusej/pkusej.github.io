@@ -1,0 +1,99 @@
+<%
+if (theme.index.slogan.enable) {
+  page.subtitle = theme.index.slogan.text || config.subtitle || ''
+}
+page.banner_img = theme.index.banner_img
+page.banner_img_height = theme.index.banner_img_height
+page.banner_mask_alpha = theme.index.banner_mask_alpha
+let adbar=0
+%>
+
+<% page.posts.each(function (post) { %>
+
+<% if (adbar==3) { %>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7303420371685571"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-61+c8-1m-7f+ue"
+     data-ad-client="ca-pub-7303420371685571"
+     data-ad-slot="8489104114"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<% } %>
+<% 
+adbar++
+if(adbar==5)
+adbar=0
+ %>
+ 
+  <div class="row mx-auto index-card">
+    <% var post_url = url_for(post.path), index_img = post.index_img || theme.post.default_index_img %>
+    <% if (index_img) { %>
+      <div class="col-12 col-md-4 m-auto index-img">
+        <a href="<%= post_url %>" target="<%- theme.index.post_url_target %>">
+          <img src="<%= url_for(index_img) %>" alt="<%= post.title %>">
+        </a>
+      </div>
+    <% } %>
+    <article class="col-12 col-md-<%= index_img ? '8' : '12' %> mx-auto index-info">
+      <h1 class="index-header">
+        <% if (theme.index.post_sticky && theme.index.post_sticky.enable && post.sticky > 0) { %>
+          <i class="index-pin <%= theme.index.post_sticky && theme.index.post_sticky.icon %>" title="Pin on top"></i>
+        <% } %>
+        <a href="<%= post_url %>" target="<%- theme.index.post_url_target %>">
+          <%= post.title %>
+        </a>
+      </h1>
+
+      <% var excerpt = post.description || post.excerpt || (theme.index.auto_excerpt.enable && post.content) %>
+      <a class="index-excerpt <%= index_img ? '' : 'index-excerpt__noimg' %>" href="<%= post_url %>" target="<%- theme.index.post_url_target %>">
+        <div>
+          <%- escape_html(strip_html(excerpt).substring(0, 200).trim()).replace(/\n/g, ' ') %>
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        <% if (theme.index.post_meta.date) { %>
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="<%= full_date(post.date, 'YYYY-MM-DD HH:mm') %>" pubdate>
+              <%- date(post.date, config.date_format) %>
+            </time>
+          </div>
+        <% } %>
+        <% if (theme.index.post_meta.category && post.categories.length > 0) { %>
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            <%- partial('_partials/category-chains', { categories: post.categories, limit: 1 }) %>
+          </div>
+        <% } %>
+        <% if (theme.index.post_meta.tag && post.tags.length > 0) { %>
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            <% post.tags.each(function(tag){ %>
+              <a href="<%= url_for(tag.path) %>">#<%- tag.name %></a>
+            <% }) %>
+          </div>
+        <% } %>
+      </div>
+    </article>
+  </div>
+<% }) %>
+  <div style="width:100%;display:flex;justify-content:center;margin-bottom:1.5rem"><a class="hhh" style="display:flex;justify-content:center;width:100%;height:50px;background-image: url(/img/test1.gif);background-size:100% 100%;border-radius: 5px;" href="广告位https://www.wuyaoshe.com"></a></div>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7303420371685571"
+     crossorigin="anonymous"></script>
+<!-- 测试 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7303420371685571"
+     data-ad-slot="8289206830"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<%- partial('_partials/paginator') %>
