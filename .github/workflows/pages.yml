@@ -28,9 +28,9 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: export NODE_OPTIONS="--max_old_space_size=40960" && npm install
+        run: npm install
       - name: Build
-        run: npm run build
+        run: export NODE_OPTIONS="--max_old_space_size=10240" && npm run build
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
