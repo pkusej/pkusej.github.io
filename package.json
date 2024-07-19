@@ -12,6 +12,7 @@
     "version": "5.4.2"
   },
   "dependencies": {
+    "cross-env": "^7.0.3",
     "hexo": "^5.0.0",
     "hexo-algoliasearch": "^2.0.1",
     "hexo-butterfly-envelope": "^1.0.15",
@@ -29,6 +30,7 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-landscape": "^0.0.3",
+    "increase-memory-limit": "^1.0.7"
   }
 }
