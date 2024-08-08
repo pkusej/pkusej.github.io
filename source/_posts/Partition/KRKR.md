@@ -213,4 +213,6 @@ KRKR区。这个分区的游戏都是用kr引擎所制作的，通过解密可�
 |[闪闪发光的你~妖精美蓝变](https://post.qingju.org/KRKR/1418/)|[密汁 / 粘濡汁](https://post.qingju.org/KRKR/1419/)|
 |[Liber_7 献给等待永劫终末的你 / Liber_7 献给在永劫终末等待着的你](https://post.qingju.org/KRKR/1423/)|[雨音swicth 如果雨音是这样的女孩子的话](https://post.qingju.org/KRKR/1424/)|
 |[夏少女](https://post.qingju.org/KRKR/1428/)|[处女回路／処女回路／おとめかいろ](https://post.qingju.org/KRKR/1429/)|
-|[妹妹让我太受欢迎了糟糕了。 / 因为妹妹太受欢迎了糟糕了。／妹のおかげでモテすぎてヤバい。](https://post.qingju.org/KRKR/1435/)|
+|[妹妹让我太受欢迎了糟糕了。 / 因为妹妹太受欢迎了糟糕了。／妹のおかげでモテすぎてヤバい。](https://post.qingju.org/KRKR/1435/)|[与你相连的恋爱FLAG／君とつながる恋フラグ V1.1](https://post.qingju.org/KRKR/1441/)|
+|[流星 -a wish star-／流る星 -a wish star-／Nagaruboshi -a wish star-](https://post.qingju.org/KRKR/1443/)|[被侵犯的勇者III／犯され勇者III～勇者なのに、ビンカンすぎるボクのおち○ちん…～](https://post.qingju.org/KRKR/1444/)|
+|[吹弹！丰盈！波涛汹涌异世界魅魔学园！／もっと！孕ませ！炎のおっぱい異世界超エロサキュバス学園！](https://post.qingju.org/KRKR/1445/)|

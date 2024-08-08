@@ -97,7 +97,7 @@ index_img: https://img.acgus.top/i/weiyun/b43c11e63a35c669306edb286145738bf7d490
 |[青空的卡缪／青空下的加缪](https://post.qingju.org/PC/169_1/)|[G线上的魔王／G弦上的魔王／G-senjou no Maou - The Devil on G-String](https://post.qingju.org/PC/171_1/)|
 |[G弦上的魔王 大番外篇 『车轮之国的魔王』](https://post.qingju.org/PC/172_0/)|[晴霁之后，定是菜花盛开的好天气](https://post.qingju.org/PC/173_0/)|
 |[少女神域-少女天狱 -the garden of fifth zoa](https://post.qingju.org/PC/174_0/)|[生命的备件](https://post.qingju.org/PC/116_0/)|
-|[五色浮影绽放于花之海洋](https://post.qingju.org/PC/175_0/)|[恋心与魔法誓言／相恋之心愿与魔法的言语](https://post.qingju.org/PC/175_0/)|
+|[五色浮影绽放于花之海洋](https://post.qingju.org/PC/175_0/)|[相恋之心与魔法之语 ／恋心与魔法誓言／ 相恋之心愿与魔法的言语／恋するココロと魔法のコトバ](https://post.qingju.org/PC/175_0/)|
 |[重生萝莉岛／冲绳奴隶岛](https://post.qingju.org/PC/177_0/)|[自爆女友，心中埋藏着苦闷的她~](https://post.qingju.org/PC/178_0/)|
 |[夏汁１００％](https://post.qingju.org/PC/178_0/)|[ももいろ性癖開放宣言！（桃色性癖开放宣言）](https://post.qingju.org/PC/180_0/)|
 |[樱花开了](https://post.qingju.org/PC/181_0/)|[NOeSIS外传：色亡的世界（色亡き）](https://post.qingju.org/PC/182_0/)|
@@ -729,3 +729,8 @@ index_img: https://img.acgus.top/i/weiyun/b43c11e63a35c669306edb286145738bf7d490
 |[真实动漫情境体验2／真实黄油场景2／真实色情游戏情境体验2／リアルエロゲシチュエーション！2](https://post.qingju.org/PC/1433_0/)|[废村少女 ～妖异魅惑的笼之乡～／廃村少女 ～妖し惑ひの籠の郷～](https://post.qingju.org/PC/1434_0/)|
 |[妹妹让我太受欢迎了糟糕了。 / 因为妹妹太受欢迎了糟糕了。／妹のおかげでモテすぎてヤバい。](https://post.qingju.org/PC/1435_0/)|
 |[甜蜜女友2+（アマカノ2+）](https://post.qingju.org/PC/1436_0/)|[我的秘密基地大作战~离家外宿的今夏回忆／ボクらのヒミツ基地大作戦 ～エスケープ ひとなつのおもいで～](https://post.qingju.org/PC/1437_0/)|
+|[女仆咖啡帕露菲重制版 ／纯爱咖啡厅～帕露菲重制版／パルフェリメイク／Parfait Remake](https://post.qingju.org/PC/1438_0/)|
+|[丽露娅与夏夏的纯白谎言／リルヤとナツカの純白な嘘／Lilja and Natsuka Painting Lies](https://post.qingju.org/PC/1439_0/)|[圣天之泪：惨遭背刺的天使／狙われた女神天使エンゼルティアー ～守った人間達に裏切られて～／Angel Tear](https://post.qingju.org/PC/1440_0/)|
+|[与你相连的恋爱FLAG／君とつながる恋フラグ V1.1](https://post.qingju.org/PC/1441_0/)|[AQUARIUM／あくありうむ。](https://post.qingju.org/PC/1442_0/)|
+|[流星 -a wish star-／流る星 -a wish star-／Nagaruboshi -a wish star-](https://post.qingju.org/PC/1443_0/)|[被侵犯的勇者III／犯され勇者III～勇者なのに、ビンカンすぎるボクのおち○ちん…～](https://post.qingju.org/PC/1444_0/)|
+|[吹弹！丰盈！波涛汹涌异世界魅魔学园！／もっと！孕ませ！炎のおっぱい異世界超エロサキュバス学園！](https://post.qingju.org/PC/1445_0/)|
